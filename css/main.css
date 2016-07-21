@@ -1,0 +1,16 @@
+
+
+.inline{
+	background:purple;
+	border :1px black solid;
+	float:left;
+	padding: 20px;
+}
+.uno{
+	background-color:blue;
+	padding: 20px;
+	border:2px solid black;
+}
+.clearfix{
+overflow: auto;
+}
